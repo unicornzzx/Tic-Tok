@@ -2,7 +2,7 @@
 //  LongTerm.swift
 //  Tic-Tok
 //
-//  Created by Zhixiang Zhang on 2018/4/4.
+//  Created by Zhixiang.Zhang on 2018/4/4.
 //  Copyright © 2018 Echo. All rights reserved.
 //
 
