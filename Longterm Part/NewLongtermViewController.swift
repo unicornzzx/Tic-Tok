@@ -3,7 +3,7 @@
 //  Tic-Tok
 //
 //  Created by Zhixiang.Zhang on 2018/5/14.
-//  Copyright © 2018年 Echo. All rights reserved.
+//  Copyright © 2018 Echo. All rights reserved.
 //
  
 import UIKit
