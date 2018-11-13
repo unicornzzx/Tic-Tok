@@ -1,6 +1,7 @@
-#### Introduction & Declaration
+### Introduction & Declaration
 ---
 Tik-Tok is an iOS application that can help people manage their time by automatically arranging, recording and notifying the schedules imported to this application. It was developed for course "CSE208 Software Engineering Group Project" by team Echo at Xi'an Jiaotong-Liverpool University in 2018. 
+![the launch page of Tik-Tok](images/launchpage.jpg)
 
 **Notice: Directly clone or download this repository can not get a runnable application.**
 
@@ -8,7 +9,7 @@ This repository only demonstrates the source code 100% contributed by me. The co
 
 Users who are interested in Tik-Tok can download the zip file in this repository, extract it and run it in Xcode IDE (Xcode is only released in macOS).
 
-#### Main Functions
+### Main Functions
 ---
 * Users can record what they what to do in Tik-Tok by creating a new to-do task. The main screen of this app shows all today's tasks (ordered by their excepted finish time).
 * Users can find the record of previous days in the calender view.
