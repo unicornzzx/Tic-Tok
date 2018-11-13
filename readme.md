@@ -2,7 +2,7 @@
 ---
 Tik-Tok is an iOS application that can help people manage their time by automatically arranging, recording and notifying the schedules imported to this application. It was developed for course "CSE208 Software Engineering Group Project" by team Echo at Xi'an Jiaotong-Liverpool University in 2018.    
 
-![the launch page of Tik-Tok](images/launchpage.jpg)
+![the launch page of Tik-Tok](images/launchpage.jpg){:height="50%" width="50%"}
 
 
 **Notice: Directly clone or download this repository can not get a runnable application.**
